@@ -80,4 +80,4 @@ Info from all of these tables are combined into a new table *modified_galaxy_zoo
 * The data may suggest that some parameters of a galaxy would be classified as one type, while other parameters of the same galaxy suggest otherwise.
 
 
-# Read the full Report for final presentation for more details.
+# Read the full Report or final presentation for more details.
